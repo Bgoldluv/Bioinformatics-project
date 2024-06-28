@@ -28,7 +28,7 @@ Developed a dynamic website with responsive design, integrating HTML, CSS, JavaS
 </html>
 
 
-style.css
+
 body{
     font-family: sans-serif;
     background-color: antiquewhite;
